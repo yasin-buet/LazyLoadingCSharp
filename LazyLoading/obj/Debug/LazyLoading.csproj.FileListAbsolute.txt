@@ -1,0 +1,6 @@
+c:\users\dastagir\documents\visual studio 2015\Projects\LazyLoading\LazyLoading\bin\Debug\LazyLoading.exe.config
+C:\Users\Dastagir\documents\visual studio 2015\Projects\LazyLoading\LazyLoading\bin\Debug\LazyLoading.exe
+C:\Users\Dastagir\documents\visual studio 2015\Projects\LazyLoading\LazyLoading\bin\Debug\LazyLoading.pdb
+C:\Users\Dastagir\documents\visual studio 2015\Projects\LazyLoading\LazyLoading\obj\Debug\LazyLoading.csprojResolveAssemblyReference.cache
+C:\Users\Dastagir\documents\visual studio 2015\Projects\LazyLoading\LazyLoading\obj\Debug\LazyLoading.exe
+C:\Users\Dastagir\documents\visual studio 2015\Projects\LazyLoading\LazyLoading\obj\Debug\LazyLoading.pdb
